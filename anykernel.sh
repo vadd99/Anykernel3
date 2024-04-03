@@ -10,9 +10,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=xun
+device.name1=plato
+device.name2=plato
+device.name3=plato
 supported.versions=13 - 14.1
 '; } # end properties
 
